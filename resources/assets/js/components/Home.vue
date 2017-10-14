@@ -1,6 +1,6 @@
 <template>
-    <nav class="panel">
-        <p class="panel-heading">repositories</p>
+    <nav class="panel column is-offset-2 is-8">
+        <p class="panel-heading">Phonebook</p>
         <div class="panel-block">
             <p class="control has-icons-left">
                 <input class="input is-small" type="text" placeholder="search">
